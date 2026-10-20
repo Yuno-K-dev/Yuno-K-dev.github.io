@@ -2,11 +2,10 @@
 layout: home
 ---
 
-# ドラクエ10 ソロ討伐TAwiki
+スクエア・エニックスが開発・運営するMMORPG『ドラゴンクエストX オンライン』のソロ討伐のTAについてまとめたサイトです．
 
-スクエア・エニックスが提供する『ドラゴンクエストX オンライン』のソロ討伐の記録についてまとめたサイトです．
+## TAランキング
 
-## コンテンツ
-
-- [レギュレーション一覧](./regulation/)
-- [このサイトについて](./about/)
+- [常闇の聖戦](./rankings/the_war_of_everdarkness/)
+- [聖守護者の闘戦記](./rankings/chronicles_of_the_sacred_sentinels/)
+- [深淵の咎人たち](./rankings/abyss_criminals/)
