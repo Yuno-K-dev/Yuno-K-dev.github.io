@@ -1,6 +1,5 @@
 ---
 layout: home
-title: ホーム
 ---
 
 # ドラクエ10 ソロ討伐TAwiki
