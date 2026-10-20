@@ -8,6 +8,6 @@ layout: home
 
 ## TAランキング
 
-- [常闇の聖戦](./rankings/the_war_of_everdarkness/)
-- [聖守護者の闘戦記](./rankings/chronicles_of_the_sacred_sentinels/)
-- [深淵の咎人たち](./rankings/abyss_criminals/)
+- [常闇の聖戦](./the_war_of_everdarkness/)
+- [聖守護者の闘戦記](./chronicles_of_the_sacred_sentinels/)
+- [深淵の咎人たち](./abyss_criminals/)
